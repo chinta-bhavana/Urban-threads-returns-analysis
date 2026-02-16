@@ -21,11 +21,17 @@ I calculated the following core metrics to evaluate business health:
 
 🔍 Key Insights
 Segment Risk: New customers have a significantly higher return rate (28%) compared to returning customers (10%).
+
 Top Return Reason: 45% of returns are due to "Size Issues," indicating a major gap in product sizing information.
+
 Channel Analysis: Instagram Shop shows the highest return rate despite having high engagement.
+
 COD Impact: Cash on Delivery (COD) orders correlate with higher RTO rates compared to prepaid methods.
+
 
 💡 Recommendations
 Optimize Size Guides: Implement detailed size charts and a "Fit Assistant" tool to address the 45% size-related returns.
+
 Prepaid Incentives: Offer small discounts for prepaid orders to reduce the RTO risk associated with COD.
+
 Instagram Strategy: Review product photography and descriptions for Instagram Shop to ensure they match the physical product accurately.
