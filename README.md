@@ -25,11 +25,11 @@ I calculated the following core metrics to evaluate business health:
 
 | KPI | Definition |
 
-| Net Revenue | Total order value after applying all discounts. |
+| Net Revenue | Total order value after applying all discounts |
 
-| Return Rate | (Orders with return initiated) / (Total Delivered orders). |
+| Return Rate | (Orders with return initiated) / (Total Delivered orders) |
 
-| RTO Rate | (Orders marked as Return to Origin) / (All shipped orders). |
+| RTO Rate | (Orders marked as Return to Origin) / (All shipped orders)|
 
 | AOV | Average Order Value post-discounts.
 
